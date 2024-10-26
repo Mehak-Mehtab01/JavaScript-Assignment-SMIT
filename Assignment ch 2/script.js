@@ -23,7 +23,8 @@ let course = alert("Certified Mobile Application Development");
 let pizza = alert("PIZZA \n PIZZ \n PIZ \n PI \n P");
 
 // Question no 06;
-let email = alert(" My email address is mehakmehtab01@gmail.com");
+let email = "mehakmehtab01@gmail.com";
+alert("My email address is " + email );
 
 // Question no 07;
 let book = alert("I am trying to learn from the Book A smarter  \n way to learn JavaScript");
