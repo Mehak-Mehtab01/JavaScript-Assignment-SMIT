@@ -47,11 +47,11 @@
 
 
 // let tMarks = 100 ;
-// let mark1 = prompt("Enter your first  subject's mark ");
-// let mark2 = prompt("Enter your Second   subject's mark ");
-// let mark3 = prompt("Enter your Third subject's  mark");
+// let mark1 = parseInt(prompt("Enter your first  subject's mark "));
+// let mark2 = parseInt(prompt("Enter your Second   subject's mark "));
+// let mark3 = parseInt(prompt("Enter your Third subject's  mark"));
 // let subjMarks =  mark1 + mark2 + mark3;
-// let totalPercent = mark1*100/tMarks+mark2*100/tMarks+mark3*100/tMarks;
+// let totalPercent = subjMarks*100/300;
 
 // document.write("Subject Total Marks Obtained Marks Percentage <br>");
 // document.write(sub1 +"  \t " + tMarks + " \t  " + mark1 +  " \t  " + mark1*100/tMarks+ "% <br>");
